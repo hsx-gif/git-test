@@ -30,3 +30,4 @@ print()
 print(len(s))
 
 print("这是我的一个新的测试")
+print("这是我的一个新的测试1")
