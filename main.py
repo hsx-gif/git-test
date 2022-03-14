@@ -25,3 +25,6 @@ for i in range(0,len(s),2):
         result.append(s[i])
 for i in result:
     print(i,end=' ')
+
+print()
+print(len(s))
